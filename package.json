@@ -209,7 +209,7 @@
     "ai": "^7.0.37",
     "embla-carousel": "^8.6.0",
     "eslint": "^10.8.0",
-    "happy-dom": "^20.11.1",
+    "happy-dom": "^21.0.4",
     "nuxt": "^4.5.1",
     "release-it": "^20.2.1",
     "unbuild": "^3.6.1",
